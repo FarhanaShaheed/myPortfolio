@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Car Bazar",
+        "title": "Full Stack Car Booking Website",
+        "img": "https://i.ibb.co/V2Zsm3m/Capture1.png",
+        "img1": "https://i.ibb.co/CJgMf54/Capture3.png",
+        "img2": "https://i.ibb.co/TRCh7yQ/Capture2.png",
+        "img3": "https://i.ibb.co/CHmL9HT/Capture1.png",
+        "description": "Responsive MERN Stack app and Implement Admin Management Page.Created a dashboard and used  nested routes.Implement Authentication System like, email-password and Google Sign in with Firebase.",
+        "link": "https://car-bazar-4d9a6.web.app/",
+        "technology": "React, React Bootstrap, React Router,Nested Route, React Hook Form, CSS, React Ratings, Firebase Authentication, Nodejs, Express Js, MongoDB, Heroku, Firebase Hosting.",
+        "bullet": [
+            "Responsive MERN Stack app and Implement Admin Management Page",
+            "Created a dashboard and used  nested routes",
+            "Implement Authentication System like, email-password and Google Sign in with Firebase",
+            "Admin and User Different routes",
+            "Implemented 404 Page"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Tour Booking",
+        "title": "Full Stack Tour Agency Website ",
+        "img": "https://i.ibb.co/VWxdYKX/Capture2.png",
+        "img1": "https://i.ibb.co/YNqcjB2/Capture2.png",
+        "img2": "https://i.ibb.co/J2jchRW/Capture1.png",
+        "img3": "https://i.ibb.co/NF615Rk/Capture.png",
+        "description": "Implement Authentication system with Firebase.Fully Responsive for mobile, tablet and desktop version.Implements Context API, React Hooks, Custom Hooks.",
+        "link": "https://travel-booking-online.web.app/",
+        "technology": "React, React Bootstrap, React Router, React Hook Form, CSS, Google Map, Firebase Authentication, Nodejs, Express Js, MongoDB, Heroku, Firebase Hosting.",
+        "bullet": [
+            "Implement Authentication system with Firebase",
+            "Fully Responsive for mobile, tablet and desktop version",
+            "Implements Context API, React Hooks, Custom Hooks",
+            "User have the ability to delete bookings",
+            "Implemented 404 Page"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Medicate",
+        "title": " Medical Service Website",
+        "img": "https://i.ibb.co/Ms4YtGC/Capture3.png",
+        "img1": "https://i.ibb.co/pJwMgP6/Capture2.png",
+        "img2": "https://i.ibb.co/RgVB0x0/Capture1.png",
+        "img3": "https://i.ibb.co/37kR2dH/Capture.png",
+        "description": "Implement React router.Implement Services Page and use CSS animation effects.Create Fake data using JSON and Implement 404 page.",
+        "link": "https://medicate-diagnostic-center.web.app/",
+        "technology": " React, React Bootstrap, Bootstrap5, React Router, CSS, React Hook, Firebase Hosting.",
+        "bullet": [
+            "Implement React router",
+            "Implement Services Page and use CSS animation effects",
+            "Create Fake data using JSON",
+            "Can view doctors details",
+            "Implemented 404 Page"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Online Care Center",
+        "title": " Teaching Service Website",
+        "img": "https://i.ibb.co/jvx49xt/Capture1.png",
+        "img1": "https://i.ibb.co/Z6MCHPt/Capture2.png",
+        "img2": "https://i.ibb.co/T2h5WpK/Capture3.png",
+        "img3": "https://i.ibb.co/X3dzdgm/Capture4.png",
+        "description": "Implement React router.Implement Services Page and use CSS animation effects.Create Fake date using JSON and Implement 404 page.",
+        "link": "https://clever-torvalds-c34bad.netlify.app/",
+        "technology": " React, React Bootstrap, Bootstrap5, React Router, CSS, React Hook, Firebase Hosting.",
+        "bullet": [
+            "Implement React router",
+            "Implement Services Page and use CSS animation effects",
+            "Create Fake data using JSON",
+            "More Courses are available",
+            "Implemented 404 Page"
+        ]
+    }
+]
